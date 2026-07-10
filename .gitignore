@@ -1,0 +1,8 @@
+# Ignore local and large runtime/data folders
+tools/
+infra/data/
+*.pyc
+__pycache__/
+node_modules/
+*.sqlite
+.DS_Store
